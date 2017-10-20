@@ -7,7 +7,7 @@
 
 
     document.onkeyup = function(event){ 
-    document.getElementById("howto").innerHTML="";
+
     console.log(comp_guess);      
 
     var user_guess = event.key;
